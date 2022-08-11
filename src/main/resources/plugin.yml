@@ -3,3 +3,6 @@ version: '${project.version}'
 main: fr.flens.bingo.Bingo
 api-version: 1.18
 author: Flens_
+commands:
+  bingo:
+  start:
